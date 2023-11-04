@@ -24,13 +24,13 @@ https://www.nyc.gov/assets/tlc/downloads/pdf/working_parquet_format.pdf
 <br />
 <div align="center">
   <a href="https://github.com/WackyChomp/data-engineer-project">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ouroboros.svg/1024px-Ouroboros.svg.png" alt="Logo" width="80" height="80">
+    <img src="https://media.istockphoto.com/id/534303983/vector/new-york-street-illustration.jpg?s=612x612&w=0&k=20&c=jsNbuscNeFkTK6DFoFpMXQfKWbuwOzg21vhEb6LV6FU=" alt="Logo" width="450" height="250" style='border: 2px solid black'>
   </a>
 
-  <h3 align="center" id='readme-top'>NYC Transportation Analysis</h3>
+  <h3 align="center" id='readme-top'>NYC Taxi Analysis</h3>
 
   <p align="center">
-    Visualizing data and uncover insights
+    Visualizing data and uncover unusual insights
     <br />
     <a href="https://github.com/WackyChomp/data-engineer-project"><strong>Explore the docs »</strong></a>
     <br />
